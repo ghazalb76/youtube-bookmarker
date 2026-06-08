@@ -1,0 +1,6 @@
+{
+    "name":"Youtube Bookmark Extension",
+    "description": "A Chrome extension to bookmark and revisit specific moments in YouTube videos.",
+    "version": "0.1.0",
+    "manifest_version": 3
+}
